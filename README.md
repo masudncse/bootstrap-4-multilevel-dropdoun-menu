@@ -9,4 +9,4 @@ A simple multilevel dropdown menu in bootstrap v4
 - Bootstrap v4
 
 ## Screenshot
-![1](https://github.com/masudncse/bootstrap-4-multilevel-dropdoun-menu/blob/master/screenshots/01.png)
+![1](https://github.com/masudncse/bootstrap-4-multilevel-dropdoun-menu/blob/main/screenshots/01.png)
